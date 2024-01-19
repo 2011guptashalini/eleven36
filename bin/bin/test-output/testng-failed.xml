@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Cross-Platform]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" name="BStackDemo-0(failed)">
+    <parameter name="platform" value="0"/>
+    <classes>
+      <class name="eleven36.com.Tests.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Validlogin"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- eleven36.com.Tests.LoginTest -->
+    </classes>
+  </test> <!-- BStackDemo-0(failed) -->
+  <test thread-count="3" name="BStackDemo-1(failed)">
+    <parameter name="platform" value="1"/>
+    <classes>
+      <class name="eleven36.com.Tests.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Validlogin"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- eleven36.com.Tests.LoginTest -->
+    </classes>
+  </test> <!-- BStackDemo-1(failed) -->
+</suite> <!-- Failed suite [Cross-Platform] -->

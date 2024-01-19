@@ -1,0 +1,104 @@
+13:03:12.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+13:03:12.397 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:03:12.612 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Downloads/testng-browserstack-master/browserstack.yml
+13:03:12.705 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:03:12.720 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:03:18.340 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 57379 -protocol json -d /Users/shalinigupta/Downloads/testng-browserstack-master/test-output /Users/shalinigupta/Downloads/testng-browserstack-master/config/sample-test.testng.xml
+13:03:18.412 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:03:31.582 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:03:42.214 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:03:50.440 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/v87b5wgin7vzpp8dgohnelcgasn3gorpjm9vkcfq to view build report, insights, and many more debugging information all at one place!
+
+13:04:24.305 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+13:04:24.309 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:04:24.525 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Downloads/testng-browserstack-master/browserstack.yml
+13:04:24.593 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:04:24.603 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:04:30.166 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 58037 -protocol json -d /Users/shalinigupta/Downloads/testng-browserstack-master/test-output /Users/shalinigupta/Downloads/testng-browserstack-master/config/sample-test.testng.xml
+13:04:30.230 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:04:36.200 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:04:42.675 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:04:50.885 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/t4hgzn8yldfckddsngqsff52bmqb71ozp8abmat9 to view build report, insights, and many more debugging information all at one place!
+
+13:06:48.694 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+13:06:48.698 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:06:48.911 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Downloads/testng-browserstack-master/browserstack.yml
+13:06:48.991 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:06:54.561 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 59337 -protocol json -d /Users/shalinigupta/Downloads/testng-browserstack-master/test-output /Users/shalinigupta/Downloads/testng-browserstack-master/config/sample-test.testng.xml
+13:06:54.663 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:07:00.620 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:07:08.782 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:07:17.103 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xbpersnzckl9ts746j2vfe98l1eonhgg8411nwyo to view build report, insights, and many more debugging information all at one place!
+
+13:08:08.502 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+13:08:08.506 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:08:08.720 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Downloads/testng-browserstack-master/browserstack.yml
+13:08:08.782 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:08:14.378 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 60077 -protocol json -d /Users/shalinigupta/Downloads/testng-browserstack-master/test-output /Users/shalinigupta/Downloads/testng-browserstack-master/config/sample-test.testng.xml
+13:08:14.444 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:08:20.402 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:08:27.824 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:08:58.405 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/7kn4yab9dhxrpq12ypilpe50elcgsq7i3docmrir to view build report, insights, and many more debugging information all at one place!
+
+13:08:59.214 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/4de4d0fe0cda87488b0f00cc8e980e9404101385
+13:08:59.216 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:14:11.835 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+13:14:11.839 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:14:12.048 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Downloads/testng-browserstack-master/browserstack.yml
+13:14:12.111 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:14:17.685 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 63370 -protocol json -d /Users/shalinigupta/Downloads/testng-browserstack-master/test-output /Users/shalinigupta/Downloads/testng-browserstack-master/config/sample-test.testng.xml
+13:14:17.880 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:14:29.379 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:14:36.747 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:15:34.126 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gblpkkkmoe32lr4hviopcrcubzu4gvtwpla0pqfg to view build report, insights, and many more debugging information all at one place!
+
+13:15:34.888 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7cefc089528cb63eda9ae1389d3c1ff860d79ed4
+13:15:34.889 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:17:47.096 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+13:17:47.104 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:17:47.325 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Downloads/testng-browserstack-master/browserstack.yml
+13:17:47.403 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:17:52.943 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 49165 -protocol json -d /Users/shalinigupta/Downloads/testng-browserstack-master/test-output /Users/shalinigupta/Downloads/testng-browserstack-master/config/sample-test.testng.xml
+13:17:53.006 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:17:58.992 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:18:05.348 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:19:06.209 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/6e0dvxxsudwi4ekkp6z92xbe43kxdla1mt3cgotm to view build report, insights, and many more debugging information all at one place!
+
+13:19:06.958 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/bd73ed6ce9190354f6cf2beb2013e00ea4f52bbc
+13:19:06.960 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:23:35.020 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+13:23:35.025 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:23:35.248 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Downloads/testng-browserstack-master/browserstack.yml
+13:23:35.328 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:23:40.896 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 52194 -protocol json -d /Users/shalinigupta/Downloads/testng-browserstack-master/test-output /Users/shalinigupta/Downloads/testng-browserstack-master/config/eleven36.testng.xml
+13:23:40.959 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:23:53.465 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:23:59.712 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:25:01.162 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hhzpmyti9osenj6t3jhvvjng4ivxwcsolpa9lsa4 to view build report, insights, and many more debugging information all at one place!
+
+13:25:01.760 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/4d7f6e81fb9094158bd384eb3fec91e13dae47f5
+13:25:01.761 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:06:12.197 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+14:06:12.203 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:06:12.422 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Desktop/AutomationProjects/Eleven36BSAutomation/browserstack.yml
+14:06:12.488 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:06:18.052 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 56308 -protocol json -d /Users/shalinigupta/Desktop/AutomationProjects/Eleven36BSAutomation/test-output /Users/shalinigupta/Desktop/AutomationProjects/Eleven36BSAutomation/config/eleven36.testng.xml
+14:06:18.126 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:06:29.665 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:06:37.708 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:07:34.401 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/muig5lzumqwbjq3o6yqhuprt8k0tat9ahjhzwgav to view build report, insights, and many more debugging information all at one place!
+
+14:07:35.145 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a6200cb397e5ec45ec915287d109636d2681367d
+14:07:35.147 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+14:12:03.210 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.1.4
+14:12:03.214 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+14:12:03.435 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/shalinigupta/Desktop/AutomationProjects/Eleven36BSAutomation/browserstack.yml
+14:12:03.500 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+14:12:09.095 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - org.testng.remote.RemoteTestNG -serport 58434 -protocol json -d /Users/shalinigupta/Desktop/AutomationProjects/Eleven36BSAutomation/test-output /Users/shalinigupta/Desktop/AutomationProjects/Eleven36BSAutomation/config/eleven36.testng.xml
+14:12:09.165 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+14:12:21.113 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:12:26.984 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:13:29.540 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hqfg1wnaw0kfqlstq1ltlnvyyrkgd5lixxdgdiuo to view build report, insights, and many more debugging information all at one place!
+
+14:13:30.258 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7cc2fb1abc86205bc1ce856fbf8205cfe9b1e3e0
+14:13:30.259 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

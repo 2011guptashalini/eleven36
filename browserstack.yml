@@ -1,0 +1,20 @@
+userName: shalinig_Io3WYc
+accessKey: eTWGdzWxEcL1fzKqGGaD
+framework: testng
+platforms:
+  - deviceName: iPhone 15 Pro Max
+    osVersion: 17
+    browserName: safari
+    deviceOrientation: portrait
+  - deviceName: Samsung Galaxy S23 Ultra
+    osVersion: 13.0
+    browserName: chrome
+    deviceOrientation: portrait
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
